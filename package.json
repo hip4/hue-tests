@@ -1,0 +1,14 @@
+{
+  "name": "BFS",
+  "description": "BFS",
+  "author": "m02",
+  "maintainers": [
+    { "name": "Patrick Haring", "email": "hip4@bfh.ch"}
+  ],
+  "version": "0.0.1",
+  "main": "./src/server",
+  "dependencies": {
+    "nconf": "*",
+    "MD5": "*"
+  }
+}
