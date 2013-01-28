@@ -1,4 +1,4 @@
 {
 	"secret" : "blubb",
-	"host":"huebridge.m02.lan"
+	"host":"huebridge.domain.lan"
 }
